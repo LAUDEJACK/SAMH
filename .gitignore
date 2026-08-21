@@ -1,0 +1,18 @@
+# Ambientes virtuais
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# Dados e Modelos Pesados (Nunca subir para o GitHub)
+data/
+*.csv
+*.parquet
+*.nc
+*.h5
+*.pkl
+
+# Byte-code do Python
+__pycache__/
+*.py[cod]
