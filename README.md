@@ -1,4 +1,22 @@
-# SAMH — Sistema Automatizado de Monitoramento Hidrológico
+<div align="center">
+
+# 🌊 SAMH — Sistema Automatizado de Monitoramento Hidrológico
+
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-14.2-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge)](#)
+[![Location](https://img.shields.io/badge/Regi%C3%A3o-Rio%20Grande%20do%20Sul%20%2F%20Brasil-green?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+<p align="center">
+  <b>Plataforma telemétrica e preditiva em tempo real para monitoramento de bacias hidrográficas e alerta antecipado de inundações no Estado do Rio Grande do Sul.</b>
+</p>
+
+</div>
+
+---
 
 > **Plataforma telemétrica e preditiva em tempo real para monitoramento de bacias hidrográficas e alerta antecipado de inundações no Estado do Rio Grande do Sul.**
 
